@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>PayloadIdentifier</key>
+		<string>com.github.golbiga.profile.blockosxbeta</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>F4CA5ED8-0A6C-472E-B2EF-34FB6C8F451A</string>
+		<key>PayloadOrganization</key>
+		<string></string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDescription</key>
+		<string>Block OS X Beta Installations</string>
+		<key>PayloadDisplayName</key>
+		<string>Block OS X Beta</string>
+		<key>PayloadContent</key>
+		<array>
+				<dict>
+						<key>PayloadType</key>
+						<string>com.apple.ManagedClient.preferences</string>
+						<key>PayloadVersion</key>
+						<integer>1</integer>
+						<key>PayloadIdentifier</key>
+						<string>com.github.golbiga.profile.blockosxbeta</string>
+						<key>PayloadUUID</key>
+						<string>D1C08C1C-D85F-42B7-BEA2-7537C7EC212F</string>
+						<key>PayloadEnabled</key>
+						<true/>
+						<key>PayloadDisplayName</key>
+						<string>Custom: (com.apple.SoftwareUpdate)</string>
+						<key>PayloadContent</key>
+						<dict>
+							<key>com.apple.SoftwareUpdate</key>
+							<dict>
+								<key>Forced</key>
+								<array>
+								<dict>
+									<key>mcx_preferences_settings</key>
+									<dict>
+										<key>AllowPreReleaseInstallation</key>
+										<false/>
+									</dict>
+								</dict>
+								</array>
+							</dict>
+						</dict>
+				</dict>
+		</array>
+</dict>
+</plist>
