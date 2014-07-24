@@ -27,7 +27,7 @@
         <string>BF496644-5D4C-42B2-A3BE-697DDA9A30EF</string>
         <key>PayloadType</key>
         <string>com.apple.ManagedClient.preferences</string>
-   		<key>PayloadOrganization</key>
+   	<key>PayloadOrganization</key>
         <string></string>
         <key>PayloadIdentifier</key>
         <string>com.github.golbiga.profile.blockosxbeta</string>
