@@ -50,8 +50,8 @@
                 <dict>
                   <key>askForPassword</key>
                   <integer>1</integer>
-				  <key>idleTime</key>
-				  <integer>600</integer>
+		  <key>idleTime</key>
+		  <integer>600</integer>
                 </dict>
               </dict>
             </array>
