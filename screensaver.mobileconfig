@@ -13,7 +13,7 @@
     <key>PayloadDisplayName</key>
     <string>Screensaver Policy</string>
     <key>PayloadDescription</key>
-	<string>Screensaver Policy</string>
+    <string>Screensaver Policy</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadEnabled</key>
@@ -22,13 +22,13 @@
     <true/>
     <key>PayloadContent</key>
     <array>
-	  <dict>
+	<dict>
         <key>PayloadUUID</key>
         <string>C1A01083-7483-4D6C-9200-97E28BF9541F</string>
         <key>PayloadType</key>
         <string>com.apple.ManagedClient.preferences</string>
-   	   	<key>PayloadOrganization</key>
-        <string>MSKCC</string>
+   	<key>PayloadOrganization</key>
+        <string></string>
         <key>PayloadIdentifier</key>
         <string>com.github.golbiga.profile.screensaver</string>
         <key>PayloadDisplayName</key>
