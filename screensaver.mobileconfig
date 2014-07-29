@@ -32,7 +32,7 @@
         <key>PayloadIdentifier</key>
         <string>com.github.golbiga.profile.screensaver</string>
         <key>PayloadDisplayName</key>
-        <string>Custom</string>
+        <string>Custom: (com.apple.screensaver)</string>
         <key>PayloadDescription</key>
         <string/>
         <key>PayloadVersion</key>
