@@ -27,7 +27,7 @@
         <string>C1A01083-7483-4D6C-9200-97E28BF9541F</string>
         <key>PayloadType</key>
         <string>com.apple.ManagedClient.preferences</string>
-   		<key>PayloadOrganization</key>
+   	<key>PayloadOrganization</key>
         <string></string>
         <key>PayloadIdentifier</key>
         <string>com.github.golbiga.profile.screensaver</string>
@@ -50,8 +50,8 @@
                 <dict>
                   <key>askForPassword</key>
                   <integer>1</integer>
-				  <key>idleTime</key>
-		  		  <integer>60</integer>
+		  <key>idleTime</key>
+		  <integer>60</integer>
                 </dict>
               </dict>
             </array>
