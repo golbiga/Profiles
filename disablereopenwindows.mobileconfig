@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+  <dict>
+    <key>PayloadUUID</key>
+    <string>FBB14927-E9FE-4FC8-8EE8-9EC3BF16F48E</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string></string>
+    <key>PayloadIdentifier</key>
+    <string>com.github.golbiga.profile.disablereopenwindows</string>
+    <key>PayloadDisplayName</key>
+    <string>Disable Reopen Windows</string>
+    <key>PayloadDescription</key>
+    <string></string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadEnabled</key>
+    <true/>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadContent</key>
+    <array>
+	  <dict>
+        <key>PayloadUUID</key>
+        <string>95C519A1-7542-420C-93B3-D09446746485</string>
+        <key>PayloadType</key>
+        <string>com.apple.ManagedClient.preferences</string>
+   	   	<key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadIdentifier</key>
+        <string>com.github.golbiga.profile.disablereopenwindows</string>
+        <key>PayloadDisplayName</key>
+        <string>Custom: (com.apple.loginwindow)</string>
+        <key>PayloadDescription</key>
+        <string/>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>PayloadContent</key>
+        <dict>
+          <key>com.apple.loginwindow</key>
+          <dict>
+            <key>Forced</key>
+            <array>
+              <dict>
+                <key>mcx_preference_settings</key>
+                <dict>
+                  <key>TALLogoutSavesState</key>
+				  <false/>
+                </dict>
+              </dict>
+            </array>
+          </dict>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
