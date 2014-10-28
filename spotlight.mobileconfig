@@ -183,7 +183,7 @@
 	<key>PayloadIdentifier</key>
 	<string>org.company.profile.Spotlight</string>
 	<key>PayloadOrganization</key>
-	<string>MSKCC</string>
+	<string>Company</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
