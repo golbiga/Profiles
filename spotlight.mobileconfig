@@ -183,7 +183,7 @@
 	<key>PayloadIdentifier</key>
 	<string>org.company.profile.Spotlight</string>
 	<key>PayloadOrganization</key>
-	<string>Company</string>
+	<string></string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
