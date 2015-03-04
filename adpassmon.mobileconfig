@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>org.pmbuko.ADPassMon</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>allowPasswordChange</key>
+								<integer>0</integer>
+								<key>prefsLocked</key>
+								<true/>
+								<key>enableKeychainLockCheck</key>
+								<true/>
+								<key>enableNotifications</key>
+								<true/>
+								<key>isBehaviour2Enabled</key>
+								<integer>1</integer>
+								<key>pwPolicy</key>
+								<string>Password Policy Here</string>
+								<key>pwPolicyURLButtonTitle</key>
+								<string>Click Here</string>
+								<key>pwPolicyURLButtonURL</key>
+								<string>URL Here</string>
+								<key>selectedBehaviour</key>
+								<integer>2</integer>
+								<key>expireAge</key>
+								<integer>365</integer>
+								<key>warningDays</key>
+								<integer>10</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Custom: (org.pmbuko.ADPassMon)</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.golbiga.profile.ADPassMon</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>1f5422b7-5753-43d7-8ac1-73cb7450acfb</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Settings for ADPassMon</string>
+	<key>PayloadDisplayName</key>
+	<string>ADPassMon Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.golbiga.profile.ADPassMon</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0ee18761-085b-4e0e-97a1-c5985812f496</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
