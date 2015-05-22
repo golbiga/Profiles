@@ -50,8 +50,10 @@
                 <dict>
                   <key>askForPassword</key>
                   <integer>1</integer>
+                  <key>askForPasswordDelay</key>
+		  <integer>0</integer>
 		  <key>idleTime</key>
-		  <integer>60</integer>
+		  <integer>600</integer>
                 </dict>
               </dict>
             </array>
