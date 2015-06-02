@@ -15,7 +15,7 @@
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>allowPasswordChange</key>
-								<integer>0</integer>
+								<false/>
 								<key>prefsLocked</key>
 								<true/>
 								<key>enableKeychainLockCheck</key>
