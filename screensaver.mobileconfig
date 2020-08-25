@@ -49,7 +49,7 @@
                 <key>mcx_preference_settings</key>
                 <dict>
                   <key>askForPassword</key>
-                  <integer>1</integer>
+                  <true />
                   <key>askForPasswordDelay</key>
 		  <integer>0</integer>
 		  <key>idleTime</key>
